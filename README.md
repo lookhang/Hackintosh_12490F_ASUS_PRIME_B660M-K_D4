@@ -6,3 +6,6 @@
 ## 主板 ASUS PRIME B660M-K D4 
 ## 主硬盘 WD-SN850-BLACK-500G-SSD
 ## 网卡 BCM94360CD
+
+2022.9.9 
+macOS Monterey 12.5.1 除了随航 其他正常
