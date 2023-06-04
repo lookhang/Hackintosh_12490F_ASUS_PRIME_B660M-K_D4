@@ -8,6 +8,8 @@
 | 显卡 | AMD Radeon RX550/550 Series ( 4 GB / 蓝宝石）
 | 网卡 | BCM94360CD
 
+- 2023.6.4<br> 
+更新 OC 至0.9.2
 
 - 2022.10.25<br> 
 系统更新到 macOS 13 ventura 正式版
